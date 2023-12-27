@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "outDir": "./dist",
+    "baseUrl": "src",
+    "noImplicitAny": true
+  },
+  "include": ["src/**/*.ts"]
+}
