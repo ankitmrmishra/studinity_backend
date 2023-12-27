@@ -2,9 +2,10 @@
   "name": "studinityserver",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon", 
+    "build": "tsc"
   },
   "keywords": [],
   "author": "",
